@@ -12,3 +12,5 @@ https://jnunez1229.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Juan Nuñez
+
+### ©️2019 Run Buddy, Inc
